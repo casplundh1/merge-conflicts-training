@@ -1,3 +1,2 @@
-# References
+This is conflicting text jfhgjfhg
 
-* octocat 1 😈
